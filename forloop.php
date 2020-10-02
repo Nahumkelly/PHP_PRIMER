@@ -20,7 +20,6 @@
             echo "<p>The Count is: $count</p>";
         }
     ?>
-    
 
 </body>
 </html>
