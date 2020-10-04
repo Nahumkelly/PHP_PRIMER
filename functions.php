@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Primer - Functions</title>
+    <title>Document</title>
 </head>
 <body>
     <h1>Function</h1>
 
     <?php
-        //Defining a Function
+        /*Defining a Function*/
         echo "<hr/>";
-        function writeMessage()
+        
+        function writeText()
         {
             echo "<h3>Welcome to Nahum Kelly World</h3>";
         }
 
         //Calling a Function
-        writeMessage();
-
+        writeText();
         echo "<hr/>";
-        writeMessage();
+        writeText();
 
         echo "<hr/>";
         echo "<h3>Functions with Parameters</h3>";
@@ -57,8 +57,8 @@
 
         $return_value = returnProduct(1500, 2900);
         echo $return_value . '<hr/>';
-
+        
     ?>
-    
+
 </body>
 </html>
