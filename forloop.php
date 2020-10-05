@@ -1,6 +1,6 @@
 <?php 
     $title = "For Loop";
-    include "includes\header.php" ;
+    require "includes\header.php" ;
 ?>
 
 <h1><?php echo $title ?></h1>

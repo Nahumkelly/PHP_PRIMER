@@ -1,6 +1,6 @@
     <?php 
         $title = "Index";
-        include "includes\header.php";
+        require  "includes\header.php";
     ?>
 
     <div class="container">
