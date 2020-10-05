@@ -12,7 +12,7 @@
 <body style="background-color: #D3D3D3">
     <div class="container-fluid">
 
-        <ul>
+        <!-- <ul>
         <li><a href="index.php">Home</a> </a></li>
         <li><a href="array.php">Simple Array and Printout</a> </a></li>
         <li><a href="forloop.php">Simple For Loop</a> </a></li>
@@ -22,8 +22,8 @@
         <li><a href="stringmanip.php">Simple String Manipulation</a> </a></li>
         <li><a href="datetimemanip.php">Simple Date and Time Manipulation</a> </a></li>
         <li><a href="functions.php">Simple Functions</a> </a></li>
-    </ul>
-        <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    </ul> -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <a class="navbar-brand" href="index.php">Nahum Kelly Assignment 1</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,7 +61,7 @@
                     </li>
                 </ul>
             </div>
-        </nav> -->
+        </nav>
         <div class="container">
 
             <h2>Follow each link to the page example</h2>
