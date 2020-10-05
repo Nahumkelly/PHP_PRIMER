@@ -1,6 +1,6 @@
 <?php 
     $title = "String Manipulation";
-    include 'includes\header.php' ;
+    include "includes\header.php" ;
 ?>
     <h1><?php echo $title ?></h1>
 
