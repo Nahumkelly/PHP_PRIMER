@@ -1,6 +1,6 @@
 <?php 
     $title = "Date and Time Manipulation";
-    require  "includes\header.php" ;
+    include  "includes\header.php" ;
 ?>
 <h1><?php echo $title ?></h1>
 
