@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Primer - Switch Statement</title>
-</head>
-<body style="background-color: #D3D3D3">
-    <h1>Switch Statement</h1>
+<?php 
+    $title = "Switch Statement";
+    include 'includes\header.php' ;
+?>
+    <h1><?php echo $title ?></h1>
     
     <?php
         $grade ='g';
@@ -28,5 +24,4 @@
         }
  
     ?>
-</body>
-</html>
+<?php require "includes/footer.php"?>

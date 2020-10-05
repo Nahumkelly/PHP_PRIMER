@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Primer - If Statement</title>
-</head>
-<body style="background-color: #D3D3D3">
-   
+<?php 
+    $title = "If Statement";
+    include 'includes\header.php' ;
+?>
+   <h1><?php echo $title ?></h1>
     <?php
     
         //An if statememt that will carry an action based on the value of the variable.
-
-        echo '<h2>If Statement</h2>';
 
         $grade = 50;
 
@@ -43,5 +37,4 @@
             echo '<img src="Image\fail.png" alt="fail" width="300" height="300">';
         }
     ?>
-</body>
-</html>
+<?php require "includes/footer.php"?>
