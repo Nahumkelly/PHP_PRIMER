@@ -17,7 +17,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-1 offset-lg-1">
-                <img class="rounded" src="Image\superstar.png" alt="Super Star"" width="70&quot;" height="70&quot;"></div>
+                <img class="rounded" src="Image\nahum.png" alt="Nahum" width="70&quot;" height="70&quot;"></div>
             <div class="col">
                 <h3 style="color:rgb(8,3,252);">Nahum Kelly</h3>
                 <h4 style="color:rgb(37,2,251);">Assignment One</h4>
