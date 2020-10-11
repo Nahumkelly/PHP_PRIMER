@@ -24,17 +24,17 @@
         if($grade == 'A')
         {
             echo '<h2 style="color: #1EBB02">Nahum Kelly You are a Super Star</h2>';
-            echo '<img src="Image\superstar.png" alt="Super Star" width="300" height="200">';
+            echo '<img src="Image\superstar.png" alt="Super Star" width="300" height="200">."<hr/>';
         }
         elseif($grade == 'B')
         {
             echo '<h2 style="color: blue">Nahum Kelly You have DONE Very Well</h2>';
-            echo '<img src="Image\well done.gif" alt="well done" width="350" height="300">';
+            echo '<img src="Image\well done.gif" alt="well done" width="350" height="300" ."<hr/>>';
         }
         else
         {
             echo '<h2 style="color: red">You Have Failed </h2>';
-            echo '<img src="Image\fail.png" alt="fail" width="300" height="300">';
+            echo '<img src="Image\fail.png" alt="fail" width="300" height="300" ."<hr/>>';
         }
     ?>
 <?php require "includes/footer.php"?>
